@@ -2,7 +2,7 @@
 
 ## 🔗 Demo
 
-Check out the live demo here: [MediCare HMS Live Demo](https://health-management-dashboard-seven.vercel.app/dashboard)
+Check out the live demo here: [MediCare HMS Live Demo](https://health-management-dashboard-seven.vercel.app/)
 
 **MediCare** is a comprehensive hospital management system designed to streamline healthcare operations and improve efficiency across hospital departments. The system offers a user-friendly interface and a complete suite of tools to manage patients, doctors, appointments, billing, and more.
 
