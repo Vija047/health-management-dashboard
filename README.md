@@ -1,5 +1,9 @@
 # MediCare - Hospital Management System
 
+## 🔗 Demo
+
+Check out the live demo here: [MediCare HMS Live Demo](https://health-management-dashboard-seven.vercel.app/dashboard)
+
 **MediCare** is a comprehensive hospital management system designed to streamline healthcare operations and improve efficiency across hospital departments. The system offers a user-friendly interface and a complete suite of tools to manage patients, doctors, appointments, billing, and more.
 
 ##  Features
@@ -44,9 +48,4 @@
 )  
 *A sample overview of the MediCare dashboard.*
 
-##  Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/medicare-hms.git
-   cd medicare-hms
