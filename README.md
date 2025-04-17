@@ -16,7 +16,7 @@
 -  **Appointment Scheduling**  
   Schedule and track appointments between patients and doctors.
 
-- 🛏**Ward Management**  
+- **Ward Management**  
   Manage ward allocations, availability, and patient transfers.
 
 -  **Medical Records**  
@@ -38,7 +38,10 @@
 
 ##  Screenshots
 
-![MediCare Dashboard](./assets/dashboard-screenshot.png)  
+![MediCare Dashboard](![image](https://github.com/user-attachments/assets/ec3dc0ad-a81e-4b9f-b146-cefd2150f49d)
+![image](https://github.com/user-attachments/assets/67286abc-dd7a-4812-bb39-cbcac07036e6)
+
+)  
 *A sample overview of the MediCare dashboard.*
 
 ##  Installation
